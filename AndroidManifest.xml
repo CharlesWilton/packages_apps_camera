@@ -66,14 +66,14 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-<!--
+
         <activity android:name="com.android.camera.panorama.PanoramaActivity"
                 android:label="@string/pano_dialog_title"
                 android:configChanges="orientation|screenSize|keyboardHidden"
                 android:clearTaskOnLaunch="true"
                 android:windowSoftInputMode="stateAlwaysHidden|adjustPan">
         </activity>
--->
+
     </application>
 </manifest>
 
